@@ -18,7 +18,7 @@ i'm a computer science engineer with passion for blockchain and books
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-<a href="https://www.algorand.com/" target="_blank" rel="noreferrer"><img src="https://cryptologos.cc/logos/algorand-algo-logo.png?v=024" width="36" height="36" alt="Algorand" /></a>
+<a href="https://www.algorand.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/A/algorand-algo-logo-267E891DCB-seeklogo.com.png" width="36" height="36" alt="Algorand" /></a>
 </p>
 
 
