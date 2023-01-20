@@ -1,14 +1,13 @@
 Hi 👋 My name is Dario
 ======================
 
-Blockchain junior developer
+Junior Blockchain Developer
 ---------------------------
 
 i'm a computer science engineer with passion for blockchain and books
 
 * 🌍  I'm based in Milan
 * 🚀  I'm currently working at Perigea
-* 🧠  I'm learning Solidity
 
 Skill
 ---------------------------------
