@@ -1,7 +1,7 @@
 Hi 👋 My name is Dario
 ======================
 
-Junior Blockchain Developer
+Blockchain Developer
 ---------------------------
 
 i'm a computer science engineer with passion for blockchain and books
